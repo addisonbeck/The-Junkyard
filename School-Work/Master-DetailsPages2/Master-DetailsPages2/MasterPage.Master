@@ -1,0 +1,43 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="MasterPage.master.vb" Inherits="Master_DetailsPages2.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+    .webform1
+    {
+        width:100%;
+        background-color:Cyan;
+        border:1px solid black;
+    }
+</style>
+</head>
+<body style="font-family:Arial; font-size:.85em">
+    <form id="form1" runat="server">
+        <table style="width:90%">
+            <tr>
+                <td>
+                    <h3>This Text is on the Master Page</h3>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <asp:Button ID="btnPage1" runat="server" Text="Open Content Page 1" />
+                    &nbsp; &nbsp;
+                    <asp:Button ID="btnPage2" runat="server" Text="Open Content Page 2" />
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

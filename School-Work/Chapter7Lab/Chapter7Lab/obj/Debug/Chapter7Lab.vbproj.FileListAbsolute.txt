@@ -1,0 +1,11 @@
+C:\Users\abeck\Documents\USA\Chapter7Lab\Chapter7Lab\bin\Debug\Chapter7Lab.exe.config
+C:\Users\abeck\Documents\USA\Chapter7Lab\Chapter7Lab\bin\Debug\Chapter7Lab.exe
+C:\Users\abeck\Documents\USA\Chapter7Lab\Chapter7Lab\bin\Debug\Chapter7Lab.pdb
+C:\Users\abeck\Documents\USA\Chapter7Lab\Chapter7Lab\bin\Debug\Chapter7Lab.xml
+C:\Users\abeck\Documents\USA\Chapter7Lab\Chapter7Lab\obj\Debug\Chapter7Lab.vbprojResolveAssemblyReference.cache
+C:\Users\abeck\Documents\USA\Chapter7Lab\Chapter7Lab\obj\Debug\Chapter7Lab.frmHome.resources
+C:\Users\abeck\Documents\USA\Chapter7Lab\Chapter7Lab\obj\Debug\Chapter7Lab.Resources.resources
+C:\Users\abeck\Documents\USA\Chapter7Lab\Chapter7Lab\obj\Debug\Chapter7Lab.vbproj.GenerateResource.Cache
+C:\Users\abeck\Documents\USA\Chapter7Lab\Chapter7Lab\obj\Debug\Chapter7Lab.exe
+C:\Users\abeck\Documents\USA\Chapter7Lab\Chapter7Lab\obj\Debug\Chapter7Lab.xml
+C:\Users\abeck\Documents\USA\Chapter7Lab\Chapter7Lab\obj\Debug\Chapter7Lab.pdb

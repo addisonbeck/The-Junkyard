@@ -1,0 +1,9 @@
+C:\Users\abeck\Documents\USA\Spring2017\InterviewQuestion\InterviewQuestion\bin\Debug\InterviewQuestion.exe.config
+C:\Users\abeck\Documents\USA\Spring2017\InterviewQuestion\InterviewQuestion\bin\Debug\InterviewQuestion.exe
+C:\Users\abeck\Documents\USA\Spring2017\InterviewQuestion\InterviewQuestion\bin\Debug\InterviewQuestion.pdb
+C:\Users\abeck\Documents\USA\Spring2017\InterviewQuestion\InterviewQuestion\obj\Debug\InterviewQuestion.csprojResolveAssemblyReference.cache
+C:\Users\abeck\Documents\USA\Spring2017\InterviewQuestion\InterviewQuestion\obj\Debug\InterviewQuestion.InterviewQuestion.resources
+C:\Users\abeck\Documents\USA\Spring2017\InterviewQuestion\InterviewQuestion\obj\Debug\InterviewQuestion.Properties.Resources.resources
+C:\Users\abeck\Documents\USA\Spring2017\InterviewQuestion\InterviewQuestion\obj\Debug\InterviewQuestion.csproj.GenerateResource.Cache
+C:\Users\abeck\Documents\USA\Spring2017\InterviewQuestion\InterviewQuestion\obj\Debug\InterviewQuestion.exe
+C:\Users\abeck\Documents\USA\Spring2017\InterviewQuestion\InterviewQuestion\obj\Debug\InterviewQuestion.pdb

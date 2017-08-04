@@ -1,0 +1,11 @@
+C:\Users\abeck\Documents\USA\Spring2017\BeckAddisonChapter1Lab\BeckAddisonChapter1Lab\bin\Debug\BeckAddisonChapter1Lab.exe.config
+C:\Users\abeck\Documents\USA\Spring2017\BeckAddisonChapter1Lab\BeckAddisonChapter1Lab\bin\Debug\BeckAddisonChapter1Lab.exe
+C:\Users\abeck\Documents\USA\Spring2017\BeckAddisonChapter1Lab\BeckAddisonChapter1Lab\bin\Debug\BeckAddisonChapter1Lab.pdb
+C:\Users\abeck\Documents\USA\Spring2017\BeckAddisonChapter1Lab\BeckAddisonChapter1Lab\bin\Debug\BeckAddisonChapter1Lab.xml
+C:\Users\abeck\Documents\USA\Spring2017\BeckAddisonChapter1Lab\BeckAddisonChapter1Lab\obj\Debug\BeckAddisonChapter1Lab.vbprojResolveAssemblyReference.cache
+C:\Users\abeck\Documents\USA\Spring2017\BeckAddisonChapter1Lab\BeckAddisonChapter1Lab\obj\Debug\BeckAddisonChapter1Lab.HomePage.resources
+C:\Users\abeck\Documents\USA\Spring2017\BeckAddisonChapter1Lab\BeckAddisonChapter1Lab\obj\Debug\BeckAddisonChapter1Lab.Resources.resources
+C:\Users\abeck\Documents\USA\Spring2017\BeckAddisonChapter1Lab\BeckAddisonChapter1Lab\obj\Debug\BeckAddisonChapter1Lab.vbproj.GenerateResource.Cache
+C:\Users\abeck\Documents\USA\Spring2017\BeckAddisonChapter1Lab\BeckAddisonChapter1Lab\obj\Debug\BeckAddisonChapter1Lab.exe
+C:\Users\abeck\Documents\USA\Spring2017\BeckAddisonChapter1Lab\BeckAddisonChapter1Lab\obj\Debug\BeckAddisonChapter1Lab.xml
+C:\Users\abeck\Documents\USA\Spring2017\BeckAddisonChapter1Lab\BeckAddisonChapter1Lab\obj\Debug\BeckAddisonChapter1Lab.pdb

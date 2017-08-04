@@ -1,0 +1,10 @@
+C:\Users\abeck\Documents\USA\BeckChapter7Lab\BeckChapter7Lab\bin\Debug\BeckChapter7Lab.exe.config
+C:\Users\abeck\Documents\USA\BeckChapter7Lab\BeckChapter7Lab\bin\Debug\BeckChapter7Lab.exe
+C:\Users\abeck\Documents\USA\BeckChapter7Lab\BeckChapter7Lab\bin\Debug\BeckChapter7Lab.pdb
+C:\Users\abeck\Documents\USA\BeckChapter7Lab\BeckChapter7Lab\bin\Debug\BeckChapter7Lab.xml
+C:\Users\abeck\Documents\USA\BeckChapter7Lab\BeckChapter7Lab\obj\Debug\BeckChapter7Lab.frmHome.resources
+C:\Users\abeck\Documents\USA\BeckChapter7Lab\BeckChapter7Lab\obj\Debug\BeckChapter7Lab.Resources.resources
+C:\Users\abeck\Documents\USA\BeckChapter7Lab\BeckChapter7Lab\obj\Debug\BeckChapter7Lab.vbproj.GenerateResource.Cache
+C:\Users\abeck\Documents\USA\BeckChapter7Lab\BeckChapter7Lab\obj\Debug\BeckChapter7Lab.exe
+C:\Users\abeck\Documents\USA\BeckChapter7Lab\BeckChapter7Lab\obj\Debug\BeckChapter7Lab.xml
+C:\Users\abeck\Documents\USA\BeckChapter7Lab\BeckChapter7Lab\obj\Debug\BeckChapter7Lab.pdb

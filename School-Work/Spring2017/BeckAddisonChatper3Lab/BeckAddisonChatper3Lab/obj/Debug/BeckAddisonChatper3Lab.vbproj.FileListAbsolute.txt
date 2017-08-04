@@ -1,0 +1,11 @@
+C:\Users\abeck\Documents\USA\Spring2017\BeckAddisonChatper3Lab\BeckAddisonChatper3Lab\bin\Debug\BeckAddisonChatper3Lab.exe.config
+C:\Users\abeck\Documents\USA\Spring2017\BeckAddisonChatper3Lab\BeckAddisonChatper3Lab\bin\Debug\BeckAddisonChatper3Lab.exe
+C:\Users\abeck\Documents\USA\Spring2017\BeckAddisonChatper3Lab\BeckAddisonChatper3Lab\bin\Debug\BeckAddisonChatper3Lab.pdb
+C:\Users\abeck\Documents\USA\Spring2017\BeckAddisonChatper3Lab\BeckAddisonChatper3Lab\bin\Debug\BeckAddisonChatper3Lab.xml
+C:\Users\abeck\Documents\USA\Spring2017\BeckAddisonChatper3Lab\BeckAddisonChatper3Lab\obj\Debug\BeckAddisonChatper3Lab.vbprojResolveAssemblyReference.cache
+C:\Users\abeck\Documents\USA\Spring2017\BeckAddisonChatper3Lab\BeckAddisonChatper3Lab\obj\Debug\BeckAddisonChatper3Lab.Resources.resources
+C:\Users\abeck\Documents\USA\Spring2017\BeckAddisonChatper3Lab\BeckAddisonChatper3Lab\obj\Debug\BeckAddisonChatper3Lab.vbproj.GenerateResource.Cache
+C:\Users\abeck\Documents\USA\Spring2017\BeckAddisonChatper3Lab\BeckAddisonChatper3Lab\obj\Debug\BeckAddisonChatper3Lab.exe
+C:\Users\abeck\Documents\USA\Spring2017\BeckAddisonChatper3Lab\BeckAddisonChatper3Lab\obj\Debug\BeckAddisonChatper3Lab.xml
+C:\Users\abeck\Documents\USA\Spring2017\BeckAddisonChatper3Lab\BeckAddisonChatper3Lab\obj\Debug\BeckAddisonChatper3Lab.pdb
+C:\Users\abeck\Documents\USA\Spring2017\BeckAddisonChatper3Lab\BeckAddisonChatper3Lab\obj\Debug\BeckAddisonChatper3Lab.HomePage.resources

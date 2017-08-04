@@ -1,0 +1,13 @@
+C:\Users\abeck\Documents\USA\Spring2017\BeckProject1\BeckProject1\bin\Debug\BeckProject1.exe.config
+C:\Users\abeck\Documents\USA\Spring2017\BeckProject1\BeckProject1\bin\Debug\BeckProject1.exe
+C:\Users\abeck\Documents\USA\Spring2017\BeckProject1\BeckProject1\bin\Debug\BeckProject1.pdb
+C:\Users\abeck\Documents\USA\Spring2017\BeckProject1\BeckProject1\bin\Debug\BeckProject1.xml
+C:\Users\abeck\Documents\USA\Spring2017\BeckProject1\BeckProject1\obj\Debug\BeckProject1.vbprojResolveAssemblyReference.cache
+C:\Users\abeck\Documents\USA\Spring2017\BeckProject1\BeckProject1\obj\Debug\BeckProject1.Resources.resources
+C:\Users\abeck\Documents\USA\Spring2017\BeckProject1\BeckProject1\obj\Debug\BeckProject1.vbproj.GenerateResource.Cache
+C:\Users\abeck\Documents\USA\Spring2017\BeckProject1\BeckProject1\obj\Debug\BeckProject1.exe
+C:\Users\abeck\Documents\USA\Spring2017\BeckProject1\BeckProject1\obj\Debug\BeckProject1.xml
+C:\Users\abeck\Documents\USA\Spring2017\BeckProject1\BeckProject1\obj\Debug\BeckProject1.pdb
+C:\Users\abeck\Documents\USA\Spring2017\BeckProject1\BeckProject1\obj\Debug\BeckProject1.frmHome.resources
+C:\Users\abeck\Documents\USA\Spring2017\BeckProject1\BeckProject1\bin\Debug\TextFile\Data.txt
+C:\Users\abeck\Documents\USA\Spring2017\BeckProject1\BeckProject1\obj\Debug\BeckProject1.SplashScreen1.resources

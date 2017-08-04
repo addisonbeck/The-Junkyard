@@ -1,0 +1,15 @@
+C:\Users\abeck\Documents\USA\BeckProject2\BeckProject2\obj\Debug\Project2.vbproj.GenerateResource.Cache
+C:\Users\abeck\Documents\USA\BeckProject2\BeckProject2\bin\Debug\Project2.exe.config
+C:\Users\abeck\Documents\USA\BeckProject2\BeckProject2\bin\Debug\Project2.exe
+C:\Users\abeck\Documents\USA\BeckProject2\BeckProject2\bin\Debug\Project2.pdb
+C:\Users\abeck\Documents\USA\BeckProject2\BeckProject2\bin\Debug\Project2.xml
+C:\Users\abeck\Documents\USA\BeckProject2\BeckProject2\obj\Debug\Project2.frmTableSelection.resources
+C:\Users\abeck\Documents\USA\BeckProject2\BeckProject2\obj\Debug\Project2.frmAdd1.resources
+C:\Users\abeck\Documents\USA\BeckProject2\BeckProject2\obj\Debug\Project2.frmEdit1.resources
+C:\Users\abeck\Documents\USA\BeckProject2\BeckProject2\obj\Debug\Project2.Resources.resources
+C:\Users\abeck\Documents\USA\BeckProject2\BeckProject2\obj\Debug\Project2.frmHome1.resources
+C:\Users\abeck\Documents\USA\BeckProject2\BeckProject2\obj\Debug\Project2.exe
+C:\Users\abeck\Documents\USA\BeckProject2\BeckProject2\obj\Debug\Project2.xml
+C:\Users\abeck\Documents\USA\BeckProject2\BeckProject2\obj\Debug\Project2.pdb
+C:\Users\abeck\Documents\USA\BeckProject2\BeckProject2\obj\Debug\Project2.vbprojResolveAssemblyReference.cache
+C:\Users\abeck\Documents\USA\BeckProject2\BeckProject2\obj\Debug\Project2.frmSplash.resources
