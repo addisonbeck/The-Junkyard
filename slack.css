@@ -7030,3 +7030,7 @@ comments {
 .para_menu a.trigger.pilcrow.active {
     filter: grayscale(2) brightness(2);
 }
+
+#sidebar_overlay{
+    background: transparent !important
+}
